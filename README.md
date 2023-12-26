@@ -1,4 +1,4 @@
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMgPJfWY=/?moveToViewport=-458,-184,949,396&embedId=414681265263" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+[WMDC Mind Map|"https://miro.com/app/live-embed/uXjVMgPJfWY=/?moveToViewport=-458,-184,949,396&embedId=414681265263"]
 
 # Wilderness Mobile Data Center
 
