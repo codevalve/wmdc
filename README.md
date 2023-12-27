@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/beacon-wmdc-logo.png" alt="Beacon Logo" />
+  <img src="/beacon-wmdc-logo.png" alt="Beacon Logo" height="250" width="250" />
 </p>
 
 
