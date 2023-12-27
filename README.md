@@ -1,4 +1,6 @@
-![Beacon Logo](/beacon-wmdc-logo.png "Logo")
+<p align="center">
+  <img src="/beacon-wmdc-logo.png" alt="Beacon Logo" />
+</p>
 
 
 # BEACON Wilderness Mobile Data Center
