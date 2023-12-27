@@ -1,4 +1,4 @@
-![Beacon Logo](/beacon-wmdc-logo.png")
+![Beacon Logo]("/beacon-wmdc-logo.png")
 
 
 # BEACON Wilderness Mobile Data Center
