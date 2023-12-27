@@ -1,4 +1,4 @@
-# Wilderness Mobile Data Center
+# BEACON Wilderness Mobile Data Center
 
 ## Managing Remote Expeditionary Science Research Teams
 
