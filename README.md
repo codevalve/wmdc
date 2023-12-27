@@ -1,4 +1,4 @@
-# Welcome to Our Open-Source Platform
+# Wilderness Mobile Data Center
 
 ## Managing Remote Expeditionary Science Research Teams
 
