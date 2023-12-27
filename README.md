@@ -1,3 +1,6 @@
+![Beacon Logo](/beacon-wmdc-logo.jpg")
+
+
 # BEACON Wilderness Mobile Data Center
 
 ## Managing Remote Expeditionary Science Research Teams
