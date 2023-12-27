@@ -19,9 +19,9 @@ Our platform is designed specifically for:
 
 ### Why Choose Us?
 
-So if you're looking for a reliable, easy-to-use platform for managing your expeditionary science research team's communication and data management needs, look no further than our open-source solution. With our platform, you can:
+So if you're looking for a reliable, easy-to-use platform for managing your expeditionary science research team's communication and data management needs, look no further than our solution. With our platform, you can:
 
 - **Stay Connected**: Maintain communication no matter where your team is exploring.
 - **Stay on Top of Your Research**: Keep track of all aspects of your research and team's progress.
 
-Join us in making the most of your expedition with our tailored platform for wilderness research teams!
+Join us in making the most of your expedition with our tailored solution for wilderness research teams!
